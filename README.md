@@ -34,7 +34,7 @@ MOBILE
 ### Links
 
 - Solution URL: [GITHUB](https://github.com/mastertbal/CLIPBOARD-LANDING-PAGE)
-- Live Site URL: [LIVE LINK](https://mastertbal.github.io/PROFILE-CARD-COMPONENT//index.html)
+- Live Site URL: [LIVE LINK](https://mastertbal.github.io/CLIPBOARD-LANDING-PAGE/index.html)
 
 ## My process
 
